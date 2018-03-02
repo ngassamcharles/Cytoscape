@@ -364,9 +364,6 @@ var cy = window.cy = cytoscape({
       { data: { id: 'clm',parent: 5 } },
       { data: { id: 'rom',parent: 5 } },
       { data: { id: 'chr',parent: 5 } }
-
-
-
     ],
     edges: [
       { data: { id: 12, source: 1, target: 2 } },
