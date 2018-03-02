@@ -1,0 +1,13 @@
+{
+  "generator-icdc": {
+    "appName": "poc_org_chart",
+    "codeApp": "poc",
+    "appCode": "poc",
+    "appType": "angular",
+    "appCibleNgType": "v2",
+    "appCibleNgLib": "app",
+    "dslFile": "undefined/modele/dsl-model-poc_org_chart.xml",
+    "securityType": "passthrought",
+    "charte": "bootstrap"
+  }
+}
