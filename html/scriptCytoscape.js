@@ -37,7 +37,7 @@ var cy = window.cy = cytoscape({
     {
       selector: '#phi',
       css: {
-        'label' : 'Philippe Giret',
+        'label' : 'Philippe xxxxxx',
         'background-image': '../img/logo.png',
         'background-fit' : 'contain'
       }
@@ -82,7 +82,7 @@ var cy = window.cy = cytoscape({
     {
       selector: '#6',
       css: {
-        'label' : 'Liquidation IRCANTEC',
+        'label' : 'Liquidation xxxxxxxx',
         'font-weight' : 'bold',
         'font-size' : '22px',
         'color' : '#B22222'
@@ -92,7 +92,7 @@ var cy = window.cy = cytoscape({
     {
       selector: '#7',
       css: {
-        'label' : 'CDD IRCANTEC',
+        'label' : 'CDD xxxxxxx',
         'font-weight' : 'bold',
         'font-size' : '22px',
         'color' : '#B22222'
@@ -102,17 +102,16 @@ var cy = window.cy = cytoscape({
     {
       selector: '#fab',
       css: {
-        'label' : 'Fabrice Barbey',
+        'label' : 'Fabrice xxxxxx',
         'width' : '10px',
         'height' : '10px',
         'shape' : 'rectangle',
-        'source-label' : 'FABRICCCEEEEEE'
       }
     },
     {
       selector: '#chan',
       css: {
-        'label' : 'Chantal Olive',
+        'label' : 'Chantal xxxxxxxx',
         'width' : '10px',
         'height' : '10px'
       }
@@ -120,7 +119,7 @@ var cy = window.cy = cytoscape({
     {
       selector: '#pau',
       css: {
-        'label' : 'Paul Leroux',
+        'label' : 'Paul sssaaa',
         'background-image': '../img/logo.png',
         'background-fit' : 'contain'
       }
@@ -128,7 +127,7 @@ var cy = window.cy = cytoscape({
     {
       selector: '#pas',
       css: {
-        'label' : 'Pascale Bombonel',
+        'label' : 'Pascale zzzzzzzz',
         'background-image': '../img/logo.png',
         'background-fit' : 'contain'
       }
@@ -136,7 +135,7 @@ var cy = window.cy = cytoscape({
     {
       selector: '#mat',
       css: {
-        'label' : 'Mathieu Regereau',
+        'label' : 'Mathieu zzzzzzz',
         'width' : '10px',
         'height' : '10px'
       }
@@ -144,7 +143,7 @@ var cy = window.cy = cytoscape({
     {
       selector: '#ptk',
       css: {
-        'label' : 'Patrick Courillaud',
+        'label' : 'Patrick zzzzzzzz',
         'width' : '10px',
         'height' : '10px'
       }
@@ -152,7 +151,7 @@ var cy = window.cy = cytoscape({
     {
       selector: '#gui',
       css: {
-        'label' : 'Guillaume Morinière',
+        'label' : 'Guillaume zzzzzzzz',
         'width' : '10px',
         'height' : '10px'
       }
@@ -160,7 +159,7 @@ var cy = window.cy = cytoscape({
     {
       selector: '#bru',
       css: {
-        'label' : 'Bruno Siret',
+        'label' : 'Bruno zzzzzzzz',
         'width' : '10px',
         'height' : '10px'
       }
@@ -168,7 +167,7 @@ var cy = window.cy = cytoscape({
     {
       selector: '#jo',
       css: {
-        'label' : 'Joelle Cheradame',
+        'label' : 'Joelle qqqqqqqqq',
         'background-image': '../img/logo.png',
         'background-fit' : 'contain'
       }
@@ -176,19 +175,19 @@ var cy = window.cy = cytoscape({
     {
       selector: '#rd',
       css: {
-        'label' : 'Rejane Darc',
+        'label' : 'Rejane ddddddd',
       }
     },
     {
       selector: '#gl',
       css: {
-        'label' : 'Gilles Capdet',
+        'label' : 'Gilles aaaaaaa',
       }
     },
     {
       selector: '#nad',
       css: {
-        'label' : 'Nadege Theraube',
+        'label' : 'Nadege qqqqqqqq',
         'background-image': '../img/logo.png',
         'background-fit' : 'contain'
       }
@@ -196,7 +195,7 @@ var cy = window.cy = cytoscape({
     {
       selector: '#lud',
       css: {
-        'label' : 'Ludovic Callerot',
+        'label' : 'Ludovic dddddd',
         'width' : '10px',
         'height' : '10px'
       }
@@ -204,7 +203,7 @@ var cy = window.cy = cytoscape({
     {
       selector: '#cha',
       css: {
-        'label' : 'Charles Ngassam',
+        'label' : 'Charles aaaaaaa',
         'width' : '10px',
         'height' : '10px'
       }
@@ -212,7 +211,7 @@ var cy = window.cy = cytoscape({
     {
       selector: '#gue',
       css: {
-        'label' : 'Guerinator Yoann',
+        'label' : 'Guerinator sssaaaa',
         'width' : '10px',
         'height' : '10px'
       }
@@ -220,7 +219,7 @@ var cy = window.cy = cytoscape({
     {
       selector: '#ahm',
       css: {
-        'label' : 'Ahmed Dhieb',
+        'label' : 'Ahmed sssssssss',
         'width' : '10px',
         'height' : '10px'
       }
@@ -228,7 +227,7 @@ var cy = window.cy = cytoscape({
     {
       selector: '#nat',
       css: {
-        'label' : 'Nathalie Dufort',
+        'label' : 'Nathalie aaaaaaaaaa',
         'background-image': '../img/logo.png',
         'background-fit' : 'contain'
       }
@@ -236,7 +235,7 @@ var cy = window.cy = cytoscape({
     {
       selector: '#sl',
       css: {
-        'label' : 'Slim Abderrazak',
+        'label' : 'Slim eeeeeeee',
         'width' : '10px',
         'height' : '10px'
       }
@@ -244,7 +243,7 @@ var cy = window.cy = cytoscape({
     {
       selector: '#cl',
       css: {
-        'label' : 'Claire Allenou',
+        'label' : 'Claire aaaaaaa',
         'width' : '10px',
         'height' : '10px'
       }
@@ -252,7 +251,7 @@ var cy = window.cy = cytoscape({
     {
       selector: '#clm',
       css: {
-        'label' : 'Clément Badiola',
+        'label' : 'Clément errrrrr',
         'width' : '10px',
         'height' : '10px'
       }
@@ -260,7 +259,7 @@ var cy = window.cy = cytoscape({
     {
       selector: '#rom',
       css: {
-        'label' : 'Romain Carpentier',
+        'label' : 'Romain ccccccccc',
         'width' : '10px',
         'height' : '10px'
       }
@@ -268,7 +267,7 @@ var cy = window.cy = cytoscape({
     {
       selector: '#chr',
       css: {
-        'label' : 'Christine Corsan',
+        'label' : 'Christine ccccccc',
         'width' : '10px',
         'height' : '10px'
       }
@@ -276,7 +275,7 @@ var cy = window.cy = cytoscape({
     {
       selector: '#tho',
       css: {
-        'label' : 'Thomas Besnard',
+        'label' : 'Thomas ssssssss',
         'width' : '10px',
         'height' : '10px'
       }
@@ -284,7 +283,7 @@ var cy = window.cy = cytoscape({
     {
       selector: '#rem',
       css: {
-        'label' : 'Remi Champion',
+        'label' : 'Remi dffffffff',
         'width' : '10px',
         'height' : '10px'
       }
@@ -292,7 +291,7 @@ var cy = window.cy = cytoscape({
     {
       selector: '#max',
       css: {
-        'label' : 'Maxime Desmauts',
+        'label' : 'Maxime aaaaaaa',
         'width' : '10px',
         'height' : '10px'
       }
@@ -300,7 +299,7 @@ var cy = window.cy = cytoscape({
     {
       selector: '#pat',
       css: {
-        'label' : 'Patrice Fricault',
+        'label' : 'Patrice aaaaaaaaa',
         'width' : '10px',
         'height' : '10px'
       }
